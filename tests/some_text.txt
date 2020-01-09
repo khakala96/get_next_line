@@ -1,0 +1,5 @@
+A random bit of text that should print out
+Anotha one\n
+\n
+\n
+test line 5
